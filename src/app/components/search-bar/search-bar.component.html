@@ -1,0 +1,7 @@
+<div class="search-container">
+  <form class="search-form" #form="ngForm" (ngSubmit)="onSearch(form)">
+    <span class="logo" routerLink="/">IVGdb </span>
+    <input class="search-input" name="search" ngModel placeholder="Search Games" />
+    <button class="search-button" type="submit">Search</button>
+  </form>
+</div>
