@@ -15,6 +15,6 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 Features in this app:
 - Router
 - Router Interceptors
-- HTTP (Public API rapidAPI)
+- HTTP (Public API on rapidAPI) API Host: rawg-video-games-database.p.rapidapi.com
 - Angular Material
 - Forms
